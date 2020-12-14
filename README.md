@@ -1,4 +1,4 @@
-# Unity-ARFoundation-echoAR-Twitter-Demo
+# Unity-ARFoundation-echoAR-demo-Twitter-Visualizer
 Twitter Demo for echoAR.  Type a hashtag search query - eg. #election2020 or #BlackLivesMatter - (with no spaces for now!) into search bar and hit search to spawn up to 15 local tweets containing the hashtag. 
 
 ## Register
