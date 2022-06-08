@@ -14,7 +14,7 @@ Don't have an API key? Make sure to register for FREE at [echo3D](https://www.ec
 ### Unity
 1. Clone [echo3D-Twitter-Demo](https://github.com/echo3Dco/Unity-ARFoundation-echo3D-demo-Twitter-Visualizer) sample code.
 2. Add and Open repo in Unity Hub as Unity 3D Project
-3. Download [echo3D Unity SDK](https://bit.ly/echo3DUnitySDKDownload) and import the package into the project
+3. Download [echo3D Unity SDK](https://storage.echo3d.co/2_SDKs/echo3DUnitySDK.unitypackage) and import the package into the project
 4. [Set the echo3D API key](https://docs.echo3D.co/unity/using-the-sdk) in the echo3D.cs script inside the ```Assets/echo3D/echo3D.prefab``` using the the Inspector.
 5. In ```Assets/echo3D/CustomBehaviour.cs```, comment out line 27 
 ```
