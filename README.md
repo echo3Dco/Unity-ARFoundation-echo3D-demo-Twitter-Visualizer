@@ -45,7 +45,7 @@ Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about 
 Feel free to reach out at [support@echo3D.co](support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
 
 ## Screenshots
-![demo gif](Images/Twitter.gif)
+![demo gif](Images/Twitter.gif)<br>
 note: text under search bar will not appear in current build.
 
 ![demo Screenshot](Images/echoArGrab.png)
